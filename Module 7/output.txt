@@ -1,0 +1,73 @@
+CAR DETAILS FROM CAR DEKHO
+Total cars loaded: 10
+==================================
+Car Number 1
+Car Name: Maruti 800 AC
+Year: 2007
+Selling Price: 60000
+Kilometers Driven: 70000
+Fuel Type: Petrol
+----------------------------------
+Car Number 2
+Car Name: Maruti Wagon R LXI Minor
+Year: 2007
+Selling Price: 135000
+Kilometers Driven: 50000
+Fuel Type: Petrol
+----------------------------------
+Car Number 3
+Car Name: Hyundai Verna 1.6 SX
+Year: 2012
+Selling Price: 600000
+Kilometers Driven: 100000
+Fuel Type: Diesel
+----------------------------------
+Car Number 4
+Car Name: Datsun RediGO T Option
+Year: 2017
+Selling Price: 250000
+Kilometers Driven: 46000
+Fuel Type: Petrol
+----------------------------------
+Car Number 5
+Car Name: Honda Amaze VX i-DTEC
+Year: 2014
+Selling Price: 450000
+Kilometers Driven: 141000
+Fuel Type: Diesel
+----------------------------------
+Car Number 6
+Car Name: Maruti Alto LX BSIII
+Year: 2007
+Selling Price: 140000
+Kilometers Driven: 125000
+Fuel Type: Petrol
+----------------------------------
+Car Number 7
+Car Name: Hyundai Xcent 1.2 Kappa S
+Year: 2016
+Selling Price: 550000
+Kilometers Driven: 25000
+Fuel Type: Petrol
+----------------------------------
+Car Number 8
+Car Name: Tata Indigo Grand Petrol
+Year: 2014
+Selling Price: 240000
+Kilometers Driven: 60000
+Fuel Type: Petrol
+----------------------------------
+Car Number 9
+Car Name: Hyundai Creta 1.6 VTVT S
+Year: 2015
+Selling Price: 850000
+Kilometers Driven: 25000
+Fuel Type: Petrol
+----------------------------------
+Car Number 10
+Car Name: Maruti Celerio Green VXI
+Year: 2017
+Selling Price: 365000
+Kilometers Driven: 78000
+Fuel Type: CNG
+----------------------------------
